@@ -1,0 +1,4 @@
+.elements__delete_disabled {
+  visibility: hidden;
+  opacity: 0;
+}

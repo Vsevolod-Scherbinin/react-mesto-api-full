@@ -1,0 +1,14 @@
+.profile__info {
+  margin: 0;
+  padding: 0 0 0 30px;
+  display: grid;
+  gap: 16px;
+  position: relative;
+}
+
+@media screen and (max-width: 1060px) {
+  .profile__info {
+    padding-left: 0;
+    gap: 14px;
+  }
+}

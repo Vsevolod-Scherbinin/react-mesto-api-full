@@ -1,0 +1,14 @@
+.elements__image {
+  margin: 0;
+  padding: 0;
+  min-width: 282px;
+  max-width: 282px;
+  min-height: 282px;
+  max-height: 282px;
+  background-size: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+.elements__image:hover {
+  cursor: pointer;
+}

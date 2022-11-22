@@ -1,0 +1,11 @@
+.popup__image-name {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: normal;
+  color: #fff;
+  position: absolute;
+  left: 0;
+  bottom: calc(-12px - 10px);
+}

@@ -1,0 +1,9 @@
+.registerQuestion__link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.registerQuestion__link:hover {
+  opacity: .6;
+  cursor: pointer;
+}

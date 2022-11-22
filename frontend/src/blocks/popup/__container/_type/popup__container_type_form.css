@@ -1,0 +1,8 @@
+.popup__container_type_form {
+  padding: 34px 36px 36.5px;
+  box-sizing: border-box;
+  width: 430px;
+  max-height: 350px;
+  background-color: #fff;
+  border-radius: 10px;
+}
